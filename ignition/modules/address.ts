@@ -1,0 +1,7 @@
+export const WETH = "0x15634dfE9764c941F80b62A73929495540C135af";
+export const MULTICALL = "0x0e78B9288E9e0dbef9EE6579a5773ECdc16b24B0";
+export const V3MULTICALL = "0xF862D9884fb0d9510a8639fF346ad5E4Dcb5AB44";
+export const FACTORY = "0x9b6c5643fe2d98c09cb9db279a8c7e0065c3086c";
+export const NFT = "0x62df0e43e599a279015ffcff70c2cf82bd19d69a";
+export const QUOTER = "0xf6b3aa77683c8146ba1ab90dab268cf907bd3ad7";
+export const ROUTER = "0xe233d75ce6f04c04610947188dec7c55790bef3b";
